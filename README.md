@@ -1,5 +1,6 @@
 # Robotic_Inverse_Kinematics-using-Neural-Networks
 6-DOF Robot Inverse Kinematics with Neural Networks
+#Overview
 Overview
 This project aims to implement a neural network-based solution for calculating the inverse kinematics of a 6-degree-of-freedom (6-DOF) robot. The inverse kinematics problem involves determining the joint angles necessary to achieve a desired end-effector position and orientation. Two types of neural network architectures are explored: feedforward neural networks and recurrent neural networks (RNNs) with Long Short-Term Memory (LSTM) cells.
 
